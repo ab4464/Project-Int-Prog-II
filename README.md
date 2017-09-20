@@ -1,5 +1,5 @@
 # Project-Int-Prog-II
-App for promote networking between TC students
+App for promoting networking between TC students
 
 ### What is your application?
 The application has the goal to boost collaborative learning and networking among students at TC Columbia University. It would allow students to: 
