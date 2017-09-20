@@ -8,7 +8,7 @@ The application has the goal to boost collaborative learning and networking amon
 - Navigate the University System by receiving (and providing) first hand advice from more experienced peers.
 NOTE: There’s an MyTC App that has general info about News related with the school, campaigns for raising money, important numbers and directory, maps, and info about the shuttle. When you login, you have more specifics about your classes, grades, etc. But this App doesn’t offer any space for networking and connecting with other students. Maybe my project could be thought as a new feature for MyTC App.
 
-### What is it not?
+### What it is not?
 It’s not a place for just socializing or finding an intimate partner. You can use Facebook and/or Tinder for that. This App is intended for meaningful communication. It is intended for networking, collaborative learning and connecting with classmates.  
 
 ### 3 core features
