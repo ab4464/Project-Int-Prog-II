@@ -3,9 +3,9 @@ App for promoting networking between TC students
 
 ### What is your application?
 The application has the goal to boost collaborative learning and networking among students at TC Columbia University. It would allow students to: 
-    * Connect with other students based on professional interests and experience.
-    * Participate from a learning space open to the creation of multidisciplinary collaborative projects. 
-    * Navigate the University System by receiving (and providing) first hand advice from more experienced peers.
+    -- Connect with other students based on professional interests and experience.
+    -- Participate from a learning space open to the creation of multidisciplinary collaborative projects. 
+    -- Navigate the University System by receiving (and providing) first hand advice from more experienced peers.
 NOTE: There’s an MyTC App that has general info about News related with the school, campaigns for raising money, important numbers and directory, maps, and info about the shuttle. When you login, you have more specifics about your classes, grades, etc. But this App doesn’t offer any space for networking and connecting with other students. Maybe my project could be thought as a new feature for MyTC App.
 
 ### What is it not?
